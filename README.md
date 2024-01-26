@@ -1,4 +1,4 @@
-- Hi, I’m @Danchiku
+- Hi, I’m Daniel
 - I’m a student @ FNSPE CTU in Prague
 - I’m currently studying Radiological Physics
 - I’m interested in data visualization and particle simulation
